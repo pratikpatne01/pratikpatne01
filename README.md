@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Pratik Patne</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | PHP Expert</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack </h3>
 
 
 
