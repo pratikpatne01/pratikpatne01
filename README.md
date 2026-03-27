@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
 
 💼 Full Stack Developer with **3+ years of experience**  
 🚀 Specialized in **MERN Stack & PHP-based applications**  
