@@ -2,17 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Patne</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | PHP Expert</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF6F61&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Specialist;3%2B+Years+Experience;Building+Scalable+Web+Apps;Future+Tech+Entrepreneur" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Thane%2C%20Mumbai-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-MERN%20%7C%20PHP-orange?style=for-the-badge" />
-</p>
-
----
 
 ## 🧠 About Me
 
@@ -89,23 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpatne01&theme=radical&hide_border=true&layout=compact" width="50%" />
 </p>
 
----
 
-## 🏆 Achievements
-
-🏅 Promoted to **Senior Software Developer**  
-👨‍💻 Led team & delivered production apps  
-⚡ Improved system performance & efficiency  
-
----
-
-## 🎓 Education & Certifications
-
-🎓 BSc IT – Mumbai University  
-📜 Full Stack Development – INSYS Technologies  
-☁️ AWS Skill Builder (2025)  
-
----
 
 ## 🌐 Connect With Me
 
