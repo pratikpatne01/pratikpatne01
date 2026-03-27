@@ -1,65 +1,104 @@
-<h1 align="center">Hi 👋, I'm Pratik Patne</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN & PHP Specialist</h3>
+<h1 align="center">Pratik Patne</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;PHP+%26+MySQL+Expert;Building+Scalable+Web+Apps;Future+Tech+Entrepreneur" />
-</p>
 
----
+## 🧑‍💻 Professional Summary
 
-## 🌟 About Me
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🔭 Currently working on **MERN & PHP-based scalable applications**
-- 👯 Looking to collaborate on **real-world full stack projects**
-- 🤝 Need help with **System Design & Cloud (AWS, DevOps)**
-- 🌱 Learning **Advanced MERN, Performance Optimization**
-- 💬 Ask me about **React, PHP, MongoDB, MySQL**
-- ⚡ Fun fact: **Future Tech + Transport Business Owner 🚀**
+Full Stack Developer with **3+ years of experience** building scalable and secure web applications using **MERN stack** and **PHP**.  
+Expert in **REST APIs, authentication systems (JWT, RBAC), database optimization, and Docker deployments**.  
+Focused on delivering **production-ready, high-performance applications** aligned with business goals.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+### 💻 Frontend
+- React.js, JavaScript (ES6+), HTML5, CSS3  
+- Bootstrap, Material-UI, Tailwind CSS  
 
-### ⚙️ Backend & Database
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+### ⚙️ Backend
+- Node.js, Express.js, PHP  
 
-### 🚀 Frameworks & Tools
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![React Query](https://img.shields.io/badge/React_Query-black?style=for-the-badge&logo=reactquery)
-![React Router](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=react-router)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
-![Apache](https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache)
+### 🗄️ Databases
+- MongoDB, MySQL  
+
+### 🔐 Authentication & Security
+- JWT (JSON Web Token)  
+- Role-Based Access Control (RBAC)  
+- OTP Verification  
+
+### 🏗️ Architecture
+- RESTful APIs  
+- Microservices Architecture  
+
+### 🚀 DevOps & Tools
+- Docker, Docker Compose  
+- Git, AWS (EC2, S3 – basic)  
+
+### ⚡ Other Skills
+- API Integration  
+- Performance Optimization  
+- Responsive Web Design  
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Full Stack Developer  
+**Bridgeview Maritime Pvt. Ltd.**  
+📅 May 2023 – Present  
+
+- 🔹 Developed and maintained internal workflow and management systems  
+- 🔹 Designed and implemented RESTful APIs  
+- 🔹 Built secure authentication systems using JWT & RBAC  
+- 🔹 Optimized MongoDB & MySQL queries for performance  
+- 🔹 Deployed backend services using Docker & Docker Compose  
+- 🔹 Maintained and enhanced PHP-based CMS modules  
+- 🔹 Collaborated with teams to convert business needs into technical solutions  
+
+---
+
+## 🚀 Projects
+
+### ⚓ Vessel and Crew Management System (MERN Stack)
+- Built a scalable system for vessel operations & crew lifecycle  
+- Implemented role-based authentication and protected routes  
+- Developed responsive UI using React.js  
+- Optimized MongoDB queries for faster performance  
+
+---
+
+### 🎓 Courses & Certification Portal (MERN Stack)
+- Developed secure training and certification platform  
+- Implemented authentication, admin approval workflows  
+- Automated test evaluation & certificate generation  
+- Built reusable UI components using MUI & Tailwind  
+
+---
+
+### 🚚 Transport Management System  
+**MERN | Microservices | Docker**
+
+- Designed microservices architecture for scalability  
+- Implemented OTP + JWT authentication  
+- Containerized services using Docker  
+- Created secure admin dashboard routing  
+- Improved real-time data handling and system reliability  
+
+
+
+
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikpatne01&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikpatne01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=pratikpatne01&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpatne01&theme=tokyonight&hide_border=true&layout=compact" width="50%" />
 </p>
 
 ---
 
-## 🧠 Current Focus
-
-```diff
-+ Building scalable MERN applications
-+ Improving system design knowledge
-+ Learning cloud & DevOps (AWS)
-+ Creating real-world impactful projects
+<h3 align="center">🔥 "Build Smart. Scale Fast. Stay Consistent." 🔥</h3>
